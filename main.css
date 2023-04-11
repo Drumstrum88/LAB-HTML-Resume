@@ -1,3 +1,48 @@
 body {
   background-color: grey;
 }
+
+#firstJob {
+  font-family: 'Courier New', Courier, monospace;
+  border: 2px;
+  border-color: black;
+  border-style: dashed;
+  padding: 10px;
+  margin: 20px;
+
+}
+
+#secondJob {
+  font-family: 'Times New Roman', Times, serif;
+  border: 3px;
+  border-color: cadetblue;
+  border-style: groove;
+  padding: 10px;
+  margin: 20px;
+}
+
+#thirdJob {
+  font-family: Arial, Helvetica, sans-serif;
+  border: 4px;
+  border-color: coral;
+  border-style: inset;
+  padding: 10px;
+  margin: 20;
+  border-radius: 10px;
+
+}
+
+article {
+  color: chartreuse;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+}
+
+h4 {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 40px;
+}
